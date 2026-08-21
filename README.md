@@ -124,7 +124,7 @@ Stay tuned... this is just **Day 1**. 🚀
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-📸✨ **Day 2 | 4th August 2026**
+📸✨ Day 2 | 4th August 2026
 
 Every image tells a story... but before AI can understand that story, it needs to learn how to *read* the image. 🤖🛰️
 
@@ -164,7 +164,8 @@ Two sessions down... and this journey keeps getting more exciting! 🚀
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-🚀 Day 3 of my ISRO-Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO) Learning Journey
+🚀 Day 3 | 5th August. 2026 
+Towards my ISRO-Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO) Learning Journey...............
 
 Today's session completely changed the way I think about satellite imagery.
 Until now, I looked at remote sensing as "analyzing images." Today, I learned that modern AI models don't just see images, they understand time, spectral signatures, scale, and even different sensors. 🌍🛰️
@@ -408,4 +409,90 @@ Another fascinating day of learning, connecting the world of AI with the world a
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-DAY 10 - LOADING..................................
+🤖 DAY 10 | August 14, 2026 | Generative AI & NLP for Geodata Analytics 🌍
+
+Continuing my learning journey with ISRO Indian Institute of Remote Sensing (Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO)), Day 10 explored the exciting intersection of Generative AI, Large Language Models (LLMs), Natural Language Processing (NLP), and Geospatial Analytics.
+
+📌 Topic: Generative AI and NLP for Geodata Analytics
+🔍 Subtopics:
+• Fundamentals of Generative AI
+• Large Language Models (LLMs)
+• Natural Language Processing (NLP) for Geodata
+• AI-powered Geospatial Analysis
+👨‍🏫 Faculty: Mr. Shubhangam Garg
+
+The session provided an understanding of how Generative AI and LLMs are reshaping the way we interact with and analyze geospatial data.
+Some key concepts explored during the session included Transformers, tokenization, embeddings, prompting, in-context learning, and Retrieval-Augmented Generation (RAG). The discussion also highlighted how these technologies can be applied to geospatial workflows.
+
+🌐 One of the most interesting applications was Natural Language to Spatial SQL, where users can ask questions in simple language and LLMs can translate them into spatial queries for databases such as PostGIS.
+For example, instead of manually writing a complex spatial query, a user could simply ask :  “Show water bodies within 100 meters of roads.”
+The system can interpret the request and generate the corresponding spatial query.
+
+The session also covered exciting applications such as:
+🗺️ Conversational GIS Assistants
+🛰️ Remote-Sensing Image Captioning
+🔎 Semantic Search over Geospatial Data
+📑 Automated Geospatial Metadata Generation
+📍 Geocoding and Entity Resolution
+🚨 AI-assisted Disaster & Risk Reporting
+
+At the same time, the session highlighted an important challenge: LLMs cannot always perform precise spatial reasoning on their own. Hallucination, coordinate systems, spatial relationships, complex geospatial schemas, and the need for accurate validation make it essential to combine LLMs with dedicated GIS tools, spatial databases, and reliable data sources.
+
+The future of GeoAI is moving toward multimodal and agentic systems that can combine language, maps, satellite imagery, spatial databases, and GIS tools to support intelligent geospatial decision-making.
+Another fascinating step in this learning journey, connecting AI/ML, NLP, LLMs, GIS, Remote Sensing, and Data Analytics. 🚀
+
+The final session explored how Generative AI, LLMs, and NLP are opening new possibilities for interacting with and analysing geospatial data. From Transformers, embeddings, and prompting to RAG, natural-language spatial queries, conversational GIS, and AI-powered geospatial analysis, the session provided a fascinating glimpse into the future of GeoAI.
+One of the most interesting takeaways was the possibility of moving from traditional GIS workflows toward natural-language interaction with geospatial databases and tools, making complex spatial analysis more accessible while still relying on dedicated geospatial engines for accuracy and precision.
+
+#Day10 #GenAI #LLM #NLP #GeoAI #GeospatialAI #GIS #RemoteSensing #GeodataAnalytics #AI/ML #ISRO #IIRS #DataAnalytics #LearningJourney
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+🚀 10 Days. 10 Sessions. One incredible journey into the future of Geospatial Intelligence.
+ What began with the fundamentals of GIS and Data Analytics has now reached its final chapter with Generative AI, LLMs, and NLP for Geodata Analytics.
+
+🌐 Looking Back at the Journey
+Over these 10 days, this programme gradually built a broader understanding of how AI/ML and geospatial technologies can come together to address real-world challenges.
+From the fundamentals of GIS Data Analytics and Spatial Data Science, the journey progressed through:
+🛰️ Image Processing Methods
+🐍 Python for Image Processing
+📊 Data Science & Geospatial Analytics
+🤖 Machine Learning for Geospatial Analysis
+🧠 Artificial Neural Networks & Deep Learning
+🌾 AI/ML for Agriculture Analytics
+🏙️ GeoAI for Smart Governance
+🌍 Generative AI, LLMs & NLP for Geodata Analytics
+
+Each session added another layer to the understanding of how spatial data can move from raw observations → meaningful information → intelligent insights → informed decisions.
+
+A special thank you to all the faculty members who shared their knowledge and perspectives throughout this programme:
+👨‍🏫 Dr. Harish Chandra Karnatak
+👩‍🏫 Dr. Poonam Seth Tiwari
+👨‍🏫 Sh R. J. Bhanderi, SAC
+👨‍🏫 Mr. Ravi Bhandari
+👨‍🏫 Dr. Anil Kumar
+👨‍🏫 Shri Nilay Nilesh, NESAC
+👨‍🏫 Mr. Shubhangam Garg
+
+And, of course, my sincere gratitude to Indian Institute of Remote Sensing (IIRS), ISRO for organising this Outreach Programme and providing an opportunity to learn from experts working at the intersection of Earth Observation, Geospatial Technology, AI/ML, and Data Science.
+
+🚀 From Learning to Application
+This may be the end of the 10-day programme, but it feels more like the beginning of a much larger learning path. The programme has strengthened my understanding of how Data Analytics, AI/ML, Remote Sensing, GIS, and Generative AI can work together to solve problems across agriculture, governance, disaster management, environmental monitoring, and many other domains.
+
+Grateful for the knowledge, insights, and perspectives gained throughout these 10 days.
+
+10 days. 10 sessions. One journey. Countless possibilities.
+The programme ends here.
+The learning doesn't.
+🛰️ From Spatial Data → to AI → to Intelligent Decisions.
+
+Looking forward to taking these learnings forward and turning them into practical applications.
+This is not the end of the journey. It is the point from where the real exploration begins. 🚀
+Thank you, Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO) & ISRO - Indian Space Research Organization, for this incredible learning experience! 🇮🇳
+
+#IIRS #ISRO #IIRSOutreachProgramme #AIforGeodataAnalytics #GeoAI #ArtificialIntelligence #MachineLearning #GenerativeAI #LLM #NLP #GIS #RemoteSensing #GeospatialAnalytics #DataAnalytics #EarthObservation #LearningJourney #AI #GeospatialTechnology
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
